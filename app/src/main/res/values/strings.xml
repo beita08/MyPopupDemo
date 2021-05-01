@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PopupDemo</string>
+    <string name="myPopupWindow">自定义PopupWindow：</string>
+</resources>
